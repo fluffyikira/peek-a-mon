@@ -1,0 +1,9 @@
+.pokemonimage{
+    height: 200px;
+    width: 200px;
+}
+
+.pokemonname{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
