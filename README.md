@@ -1,5 +1,5 @@
 # peek-a-mon <br>
-damn bro, some guy from the pokemon company really just took my extension down on ground of copyright infringement?? <br>
+damn bro, some guy from the pokemon company really just took my extension down on grounds of copyright infringement?? <br>
 that's just disappointing :// <br>
 i guess i need to find a workaround and release a peekamon v2 now <br>
 ### Pokemon. Except it's one at a time. So you PEEK a MON. <br>
